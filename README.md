@@ -4,6 +4,8 @@
 
 ![Conversor basico](Capturas/1.png)
 
+![](Capturas/1.png)
+![](Capturas/2.png)
 ![main](Capturas/2.png)
 
 ![EJECUCION](Capturas/3.png)
