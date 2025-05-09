@@ -2,8 +2,8 @@
 # CONVERSOR DE DISTANCIA 
 # NOMBRE: Melodi Heidi Callejas Yañez 
 
-![Conversor basico](.\capturas\1)
+![Conversor basico](./Capturas/1)
 
-![main](.\capturas\2)
+![main](./Capturas/2)
 
-![EJECUCION](.\capturas\3)
+![EJECUCION](./Capturas/3)
